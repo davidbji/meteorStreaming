@@ -140,7 +140,7 @@ header nav a:hover {
 
 }
 
-.titulos-secundarios img{
+.titulos-secundarios img {
   margin-top: 6%;
   margin-bottom: 2%;
 }
@@ -427,24 +427,29 @@ header nav a:hover {
   header .container img {
     margin-bottom: 10px;
   }
+
   .botao {
     margin-top: 20px;
     width: 220px;
     height: 52px;
   }
+
   .filme-principal {
     height: 650px;
     background-size: cover;
   }
+
   header nav a {
     font-size: 14px;
   }
+
   .container .descricao {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
+
   .filme-principal img {
     margin-bottom: 2%;
     margin-top: 70px;
@@ -455,13 +460,16 @@ header nav a:hover {
   .descricao {
     width: 50%;
   }
+
   header nav {
     font-size: 14px;
     margin-right: 25px;
   }
+
   header .container {
     display: flex;
   }
+
   header .container img {
     margin-bottom: 10px;
   }
@@ -471,19 +479,23 @@ header nav a:hover {
   header nav {
     font-size: 14px;
   }
+
   .rodape #icons {
     margin-left: 30px;
   }
+
   .nav-footer {
     margin-right: 30px;
     margin-left: 10px;
   }
+
   header .container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
+
   header .container img {
     margin-bottom: 10px;
   }
@@ -493,11 +505,14 @@ header nav a:hover {
   header nav a {
     font-size: 9px;
   }
+
   .rodape #icons {
     margin-left: 30px;
   }
+
   .nav-footer {
     margin-right: 30px;
     margin-left: 10px;
   }
+
 }
